@@ -1,0 +1,11 @@
+{
+  "name": "pickabook-frontend",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "scripts": {
+    "dev": "next dev"
+  }
+}
